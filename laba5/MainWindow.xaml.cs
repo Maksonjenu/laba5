@@ -24,5 +24,7 @@ namespace laba5
         {
             InitializeComponent();
         }
+        void init()
+        { }
     }
 }
